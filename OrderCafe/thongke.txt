@@ -1,0 +1,3 @@
+Tên Sản Phẩm      Tổng Tiền       Số Lượng Bán Được        Thời Gian
+Number One             VND 80,000                    5        2019-06-10
+Tổng Doanh ThuVND 80,000

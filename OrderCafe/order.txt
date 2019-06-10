@@ -1,0 +1,6 @@
+<-----Tâm cafe----->
+Hóa Đơn
+Tâm Cafe, đông hòa
+Date :2019-06-10
+Id 3 Tên sản phẩm :Number One  Giá Tiền  :VND 16,000 Số Lượng : 5  Total : VND 80,000
+Tổng Tiền : VND 80,000
